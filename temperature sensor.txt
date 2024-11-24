@@ -1,14 +1,6 @@
 #include <dht.h> 
 
-dht
-  DHT; 
-
-#define DHT11_PIN 7 
-
-#include <dht.h> 
-
-dht
-  DHT; 
+dht DHT; 
 
 #define DHT11_PIN 7 
 
